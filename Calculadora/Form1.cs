@@ -147,6 +147,7 @@ namespace Calculadora
         private void button16_Click(object sender, EventArgs e)
         {
             calcular_e_mostrar();
+            mostrar_calculo = false;
         }
     }
 }
